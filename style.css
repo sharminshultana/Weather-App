@@ -1,0 +1,16 @@
+body {
+    background: url(images/bg-image.jpg) no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.weather {
+    background: -webkit-linear-gradient(rgb(217, 5, 111), rgba(213, 206, 206, 0.851));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+   #city{
+    background:-webkit-linear-gradient(blue,rgba(205, 9, 9, 0.851)) ;
+    -webkit-background-clip:text;
+    -webkit-text-fill-color:transparent;
+}
